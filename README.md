@@ -380,7 +380,7 @@
   <tr>
      <h2 align="center">Evolution of High-Value Product Categories YOY</h2>
       <div align="center">
-        <img width="1000" src="assets/Product Performance/Products contributing 80% Revenue.png"/>
+        <img width="1000" src="assets/Product Performance/Products contributing 80% Revenue.png">
       </div>
     <tr>
   </tr>
