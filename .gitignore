@@ -1,0 +1,27 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+
+*.geojson
+br.json
+brazil_states.json
+brazilian_cities_geodata.csv
+Main_file.ipynb
+map_with_slider.html
+newplot.png
+olist_customers_dataset.csv
+olist_geolocation_dataset.csv
+olist_order_items_dataset.csv
+olist_order_payments_dataset.csv
+olist_order_reviews_dataset.csv
+olist_orders_dataset.csv
+olist_products_dataset.csv
+olist_sellers_dataset.csv
+output 1.png
+product_category_name_translation.csv
+Untitled copy.ipynb
+Untitled-1.ipynb
+Untitled.ipynb
+bcim_2016_21_11_2018.gpkg
